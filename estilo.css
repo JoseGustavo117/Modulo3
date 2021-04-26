@@ -1,0 +1,19 @@
+div.tit{
+    background: black;
+    padding-top: 3em;
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-bottom: 0px;
+}
+
+div.ctr{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+div.tx{
+    position: absolute;
+    padding-left: 80px;
+    padding-right: 100px;
+}
